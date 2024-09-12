@@ -26,7 +26,7 @@ Integrantes do grupo<br>
 <br>
 <br>
 
-##   MARCO DE ENTREGA PARTE 01 
+###   MARCO DE ENTREGA PARTE 01 
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - ATÉ O ITEM 4)
 <br>
 

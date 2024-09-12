@@ -10,7 +10,8 @@ Integrantes do grupo<br>
 > ...<br>
 > <discenteN: email> <br>
 
-# PARTE 1 DA DISCIPLINA (Imersão, Requisitos e Análise inicial dos dados)
+# PARTE 1 DA DISCIPLINA 
+(Imersão, Requisitos e Análise inicial dos dados)
 
 ### 2	Escolha da base de dados e explicação sobre informações relacionadas <br>
 > a) Escolher base de dados com o mínimo de registros solicitado<br>
@@ -20,42 +21,36 @@ Integrantes do grupo<br>
 ### 3 Fast Imersion Canvas <br>
 > Inclusão do Fast Imersion Canvas
 <br>
-<br>
 
 ### 4 Fast EDA e PPD Canvas
 > Inclusão do Fast EDA Canvas, Fast PPD Canvas 
-<br>
->(Inclusão de Pré processamentoe e Análise exploratoria de dados (Jupyter notebook/Colab)
+> (Inclusão de Pré processamentoe e Análise exploratoria de dados (Jupyter notebook/Colab)
 <br>
 <br>
 
 ##   MARCO DE ENTREGA PARTE 01 
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - ATÉ O ITEM 4)
 <br>
-<br>
-# PARTE 2 DA DISCIPLINA (MODELAGEM DW e ETL)
 
-## (MODELAGEM E ETL)
+
+# PARTE 2 DA DISCIPLINA 
+(MODELAGEM DW e ETL)
 
 ### 5 Fast Modelling Canvas
-<br>
 > Inclusão do Fast Modelling Canvas
 <br>
 <br>
 
 ### 6	MODELO CONCEITUAL, LOGICO E FISICO - OLTP<br>
-<br>
 > Inclusão dos Modelos OLTP
 <br>
 <br>
 
 ### 7 Mapa de ETL
-><br>
 > Inclusão do Mapa de ETL
 <br>
 <br>
 ### 8	MODELO CONCEITUAL, LOGICO E FISICO - OLAP<br>
-<br>
 > Inclusão dos Modelos OLAP
 > TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
 > Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL

@@ -30,7 +30,6 @@ Integrantes do grupo<br>
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - ATÉ O ITEM 4)
 <br>
 
-
 # PARTE 2 DA DISCIPLINA
 (A parte 2 tem como foco as atividades de Modelagem e ETL)
 
@@ -49,6 +48,7 @@ Integrantes do grupo<br>
 > Inclusão do Mapa de ETL
 <br>
 <br>
+
 ### 8	Modelos Conceitual, Lógico e Físico -OLAP<br>
 > Inclusão dos Modelos OLAP
 > TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
@@ -56,8 +56,9 @@ Integrantes do grupo<br>
 <br>
 <br>
 
-##   MARCO DE ENTREGA PARTE 02 
+###   MARCO DE ENTREGA PARTE 02 
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - ATÉ O ITEM 8)
+
 
 # PARTE 3 DA DISCIPLINA 
 (A parte 3 tem como foco as atividades de Carga de dados, Análises/visualizações de resultados e passagem de conhecimento)
@@ -85,6 +86,8 @@ Integrantes do grupo<br>
 <br>
 <br>
 
+###   MARCO DE ENTREGA PARTE 03 
+> (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - DO ITEM 1 AO 12)
 
 #### a) Conclusão análises de data mining/dashboards e ajustes no trabalho (conforme ajustes solicitados pelo professor)
 #### b) Criação de Slides para apresentação dos resultados provenientes do banco de dados OLAP desenvolvido (CANVAS + NOTEBOOKS E CONCLUSÕES)

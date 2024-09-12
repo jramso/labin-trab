@@ -89,9 +89,29 @@ Integrantes do grupo<br>
 ###   MARCO DE ENTREGA PARTE 03 
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - DO ITEM 1 AO 12)
 
+<br>
+<br><br>
+<br><br>
+<br>
+# OBSERVAÇÕES E DICAS DE FORMATAÇÃO
 
-# DICAS DE FORMATAÇÃO
-FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+### OBSERVAÇÕES IMPORTANTES
+
+#### Todos os arquivos que fazem parte do projeto (Imagens, pdfs, arquivos fonte, etc..), devem estar presentes no GIT. Os arquivos do projeto vigente não devem ser armazenados em quaisquer outras plataformas.
+1. Caso existam arquivos com conteúdos sigilosos, comunicar o professor que definirá em conjunto com o grupo a melhor forma de armazenamento do arquivo.
+
+#### Todos os grupos deverão fazer Fork deste repositório e dar permissões administrativas ao usuário deste GIT, para acompanhamento do trabalho.
+
+#### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
+
+Link para BrModelo:<br>
+http://sis4.com/brModelo/brModelo/download.html
+<br>
+
+Link para curso de GIT<br>
+![https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
+
+### FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 <comentario no git>
     
 ##### About Formatting
@@ -106,23 +126,7 @@ FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting
 #### Mastering Markdown
     https://guides.github.com/features/mastering-markdown/
 
-### OBSERVAÇÕES IMPORTANTES
 
-#### Todos os arquivos que fazem parte do projeto (Imagens, pdfs, arquivos fonte, etc..), devem estar presentes no GIT. Os arquivos do projeto vigente não devem ser armazenados em quaisquer outras plataformas.
-1. Caso existam arquivos com conteúdos sigilosos, comunicar o professor que definirá em conjunto com o grupo a melhor forma de armazenamento do arquivo.
-
-#### Todos os grupos deverão fazer Fork deste repositório e dar permissões administrativas ao usuário deste GIT, para acompanhamento do trabalho.
-
-#### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
-
-
-Link para BrModelo:<br>
-http://sis4.com/brModelo/brModelo/download.html
-<br>
-
-
-Link para curso de GIT<br>
-![https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
 
 
 

@@ -11,7 +11,7 @@ Integrantes do grupo<br>
 > <discenteN: email> <br>
 
 # PARTE 1 DA DISCIPLINA 
-(Imersão, Requisitos e Análise inicial dos dados)
+(A parte 1 tem como foco as atividades de Imersão, Requisitos e Análise inicial dos dados)
 
 ### 2	Escolha da base de dados e explicação sobre informações relacionadas <br>
 > a) Escolher base de dados com o mínimo de registros solicitado<br>
@@ -33,16 +33,17 @@ Integrantes do grupo<br>
 <br>
 
 
-# PARTE 2 DA DISCIPLINA 
-(MODELAGEM DW e ETL)
+# PARTE 2 DA DISCIPLINA
+(A parte 1 tem como foco as atividades de Modelagem e ETL)
 
 ### 5 Fast Modelling Canvas
 > Inclusão do Fast Modelling Canvas
 <br>
 <br>
 
-### 6	MODELO CONCEITUAL, LOGICO E FISICO - OLTP<br>
+### 6	Modelos Conceitual, Lógico e Físico - OLTP<br>
 > Inclusão dos Modelos OLTP
+> (Caso não exista, crie o modelo básico necessário)
 <br>
 <br>
 
@@ -50,7 +51,7 @@ Integrantes do grupo<br>
 > Inclusão do Mapa de ETL
 <br>
 <br>
-### 8	MODELO CONCEITUAL, LOGICO E FISICO - OLAP<br>
+### 8	Modelos Conceitual, Lógico e Físico -OLAP<br>
 > Inclusão dos Modelos OLAP
 > TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
 > Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL
@@ -58,34 +59,30 @@ Integrantes do grupo<br>
 <br>
 
 ##   MARCO DE ENTREGA PARTE 02 
-> (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA)
+> (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - ATÉ O ITEM 8)
 
-# PARTE 3 DA DISCIPLINA (ANÁLISES E RESULTADOS COM PASSAGEM DE CONHECIMENTO)
+# PARTE 3 DA DISCIPLINA 
+(A parte 1 tem como foco as atividades de Carga de dados, Análises/visualizações de resultados e passagem de conhecimento)
 <br>
-## CARGA DE DADOS e ANÁLISE/VISUALIZAÇÃO 
 
-#### 9 CARGA DE DADOS OBTIDOS/VALIDAÇÃO
-<br>
+### 9 CARGA DE DADOS OBTIDOS/VALIDAÇÃO
 > Realização de todo processo de ETL (Siga os passos solicitados, preferencialente nas ferramentas recomendadas)
 > OBS:Lembre que este processo é comumente custoso e complexo, não substime as dificuldades implícitas. 
 <br>
 <br>
 
 ### 10 Cubos <br>
-<br>
 > Inclusão de cubos  desenvolvidos<br>
 <br>
 <br>
 
 ### 11 Dashboards <br>
-<br>
 > Inclusão de dashboards  desenvolvidos
 <br>
 <br>
 
 
 ### 12 CRIAÇÃO DOS SLIDES E VÍDEO PARA APRESENTAÇAO FINAL <br>
-<br>
 > Inclusão da apresentação final
 <br>
 <br>

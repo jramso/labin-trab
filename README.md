@@ -1,8 +1,6 @@
 # TRABALHO : Título do trabalho
 Trabalho desenvolvido durante a disciplina de LABIN
  
-# Sumário
-
 ### 1	COMPONENTES<br>
 Integrantes do grupo<br>
 > <discente1: email><br>

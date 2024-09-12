@@ -89,16 +89,9 @@ Integrantes do grupo<br>
 ###   MARCO DE ENTREGA PARTE 03 
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - DO ITEM 1 AO 12)
 
-#### a) Conclusão análises de data mining/dashboards e ajustes no trabalho (conforme ajustes solicitados pelo professor)
-#### b) Criação de Slides para apresentação dos resultados provenientes do banco de dados OLAP desenvolvido (CANVAS + NOTEBOOKS E CONCLUSÕES)
-#### c) Modelo Pecha Kucha(Apresentação com tempo de  6m40s) 
-#### OBS: Esta é uma atividade de grande relevância no contexto do trabalho. Mantenha o foco nos principais resultados.
 
-##   MARCO DE ENTREGA PARTE 02 
-(SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA)
-
-
-### FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+# DICAS DE FORMATAÇÃO
+FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 <comentario no git>
     
 ##### About Formatting

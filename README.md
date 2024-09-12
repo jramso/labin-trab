@@ -5,16 +5,16 @@ Trabalho desenvolvido durante a disciplina de LABIN
 
 ### 1	COMPONENTES<br>
 Integrantes do grupo<br>
-<discente1: email>
-<discente2: email>
-...
-<discenteN: email>
+<discente1: email><br>
+<discente2: email><br>
+...<br>
+<discenteN: email> <br>
 
-# PARTE 1 DA DISCIPLINA (IMERSAO , REQUISITOS E ANÁLISE INICIAL DOS DADOS)
+# PARTE 1 DA DISCIPLINA (Imersão, Requisitos e Análise inicial dos dados)
 
 ### 2	Escolha da base de dados e explicação sobre informações relacionadas <br>
-a) Escolher base de dados com o mínimo de registros solicitado
-b) definição de nome para o projeto a ser executado
+a) Escolher base de dados com o mínimo de registros solicitado<br>
+b) definição de nome para o projeto a ser executado<br>
 c) explicação do assunto relacionado aos dados e demais informações relativas a base em questão <br>
 
 ### 3 Fast Imersion Canvas <br>
@@ -23,12 +23,13 @@ Inclusão do Fast Imersion Canvas
 <br>
 
 ### 4 Fast EDA e PPD Canvas
+Inclusão do Fast EDA Canvas, Fast PPD Canvas 
 <br>
-Inclusão do Fast EDA Canvas, Fast PPD Canvas + Inclusão de Pré processamentoe e Análise exploratoria de dados (Jupyter notebook/Colab)
+(Inclusão de Pré processamentoe e Análise exploratoria de dados (Jupyter notebook/Colab)
 <br>
 <br>
 
-##   MARCO DE ENTREGA PARTE 01 
+##   MARCO DE ENTREGA PARTE 01 (até item 4)
 (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA)
 
 # PARTE 2 DA DISCIPLINA (MODELAGEM DW e ETL)

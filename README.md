@@ -39,31 +39,31 @@ Integrantes do grupo<br>
 
 ### 5 Fast Modelling Canvas
 <br>
->Inclusão do Fast Modelling Canvas
+> Inclusão do Fast Modelling Canvas
 <br>
 <br>
 
 ### 6	MODELO CONCEITUAL, LOGICO E FISICO - OLTP<br>
 <br>
->Inclusão dos Modelos OLTP
+> Inclusão dos Modelos OLTP
 <br>
 <br>
 
 ### 7 Mapa de ETL
 ><br>
-Inclusão do Mapa de ETL
+> Inclusão do Mapa de ETL
 <br>
 <br>
 ### 8	MODELO CONCEITUAL, LOGICO E FISICO - OLAP<br>
 <br>
->Inclusão dos Modelos OLAP
-TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
-Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL
+> Inclusão dos Modelos OLAP
+> TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
+> Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL
 <br>
 <br>
 
 ##   MARCO DE ENTREGA PARTE 02 
->(SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA)
+> (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA)
 
 # PARTE 3 DA DISCIPLINA (ANÁLISES E RESULTADOS COM PASSAGEM DE CONHECIMENTO)
 <br>
@@ -71,20 +71,20 @@ Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL
 
 #### 9 CARGA DE DADOS OBTIDOS/VALIDAÇÃO
 <br>
->Realização de todo processo de ETL (Siga os passos solicitados, preferencialente nas ferramentas recomendadas)
->OBS:Lembre que este processo é comumente custoso e complexo, não substime as dificuldades implícitas. 
+> Realização de todo processo de ETL (Siga os passos solicitados, preferencialente nas ferramentas recomendadas)
+> OBS:Lembre que este processo é comumente custoso e complexo, não substime as dificuldades implícitas. 
 <br>
 <br>
 
 ### 10 Cubos <br>
 <br>
->Inclusão de cubos  desenvolvidos<br>
+> Inclusão de cubos  desenvolvidos<br>
 <br>
 <br>
 
 ### 11 Dashboards <br>
 <br>
->Inclusão de dashboards  desenvolvidos
+> Inclusão de dashboards  desenvolvidos
 <br>
 <br>
 

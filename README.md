@@ -1,6 +1,3 @@
-# labin-template-trab
-# Trabalho LABIN
-
 # TRABALHO : Título do trabalho
 Trabalho desenvolvido durante a disciplina de LABIN
  
@@ -8,13 +5,17 @@ Trabalho desenvolvido durante a disciplina de LABIN
 
 ### 1	COMPONENTES<br>
 Integrantes do grupo<br>
+<discente1: email>
+<discente2: email>
+...
+<discenteN: email>
 
-# PARTE 1 DA DISCIPLINA (Imersão e Requisitos)
+# PARTE 1 DA DISCIPLINA (IMERSAO , REQUISITOS E ANÁLISE INICIAL DOS DADOS)
 
 ### 2	Escolha da base de dados e explicação sobre informações relacionadas <br>
-a) Escolher base de dados com o mínimo de registros solicitado, definição de nome para o projeto a ser executado, explicação do assunto relacionado aos dados e demais informações relativas a base em questão <br>
-
-## (IMERSAO , REQUISITOS E ANÁLISE INICIAL DOS DADOS)
+a) Escolher base de dados com o mínimo de registros solicitado
+b) definição de nome para o projeto a ser executado
+c) explicação do assunto relacionado aos dados e demais informações relativas a base em questão <br>
 
 ### 3 Fast Imersion Canvas <br>
 Inclusão do Fast Imersion Canvas

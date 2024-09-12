@@ -34,7 +34,7 @@ Integrantes do grupo<br>
 
 
 # PARTE 2 DA DISCIPLINA
-(A parte 1 tem como foco as atividades de Modelagem e ETL)
+(A parte 2 tem como foco as atividades de Modelagem e ETL)
 
 ### 5 Fast Modelling Canvas
 > Inclusão do Fast Modelling Canvas
@@ -62,7 +62,7 @@ Integrantes do grupo<br>
 > (SEMINÁRIO DE APRESENTAÇÃO DOS RESULTADOS PARA TODA TURMA - ATÉ O ITEM 8)
 
 # PARTE 3 DA DISCIPLINA 
-(A parte 1 tem como foco as atividades de Carga de dados, Análises/visualizações de resultados e passagem de conhecimento)
+(A parte 3 tem como foco as atividades de Carga de dados, Análises/visualizações de resultados e passagem de conhecimento)
 <br>
 
 ### 9 CARGA DE DADOS OBTIDOS/VALIDAÇÃO

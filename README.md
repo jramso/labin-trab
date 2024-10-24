@@ -1,12 +1,12 @@
-# TRABALHO : Título do trabalho
+# TRABALHO : Pesquisadores e Instituições
 Trabalho desenvolvido durante a disciplina de LABIN
  
 ### 1	COMPONENTES<br>
 Integrantes do grupo<br>
-> <discente1: email><br>
-> <discente2: email><br>
-> ...<br>
-> <discenteN: email> <br>
+> <Josué Ramos Souza: josue.rsou2@gmail.com><br>
+> <Fabio Henrique Fantin : fabioh136@gmail.com><br>
+> <Breno Ricardo F. Antunes : breno.antunes609@gmail.com><br>
+
 
 # PARTE 1 DA DISCIPLINA 
 (A parte 1 tem como foco as atividades de Imersão, Requisitos e Análise inicial dos dados)

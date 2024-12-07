@@ -19,7 +19,8 @@ Integrantes do grupo<br>
 ### 3 Fast Imersion Canvas <br>
 > Inclusão do Fast Imersion Canvas
 <br>
-![Alt text](https://github.com/jramso/labin-trab/blob/main/PESQUISADORES%20E%20INSTITUIÇÕES%20-%20LABIN%20-%20%20Fast%20Immersion%20Canvas.png?raw=true "Fast Immersion Canvas")
+
+![Alt text](https://github.com/jramso/labin-trab/blob/main/PESQUISADORES%20E%20INSTITUIÇÕES%20-%20LABIN%20-%20%20Fast%20Immersion%20Canvas.png?raw=true "FastCanvas")
 
 ### 4 Fast EDA e PPD Canvas
 > Inclusão do Fast EDA Canvas, Fast PPD Canvas

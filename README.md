@@ -42,6 +42,10 @@ Integrantes do grupo<br>
 <br>
 <br>
 
+> Inclusão do Fast DDP Canvas
+
+![Alt text](https://github.com/jramso/labin-trab/blob/main/Fast%20DDP.png?raw=true "FastDDPCanvas")
+
 ### 6	Modelos Conceitual, Lógico e Físico - OLTP<br>
 > Inclusão dos Modelos OLTP
 > (Caso não exista, crie o modelo básico necessário)
